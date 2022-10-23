@@ -1,5 +1,6 @@
 # depslib dependency file v1.0
-1666428424 source:c:\users\asus\desktop\calculator_c\calculator\main.c
+1666541569 source:c:\users\asus\desktop\calculator_c\calculator\main.c
 	<stdio.h>
 	<stdlib.h>
+	<time.h>
 
