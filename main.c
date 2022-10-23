@@ -59,6 +59,6 @@ int main()
     printf(".");
     delay(1);
     printf(".\n");
-    printf("Your result is %.2f\n", result);
+    printf("Your result is %.2f. Gratulations!\n", result);
     return 0;
 }
